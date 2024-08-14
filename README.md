@@ -1,7 +1,7 @@
 # 💫About Me :
 👨🏽‍💻 I’m currently working on [PYTHON];
-- 🌱 I’m currently learning html, css, javascript; 
-- 👯 I’m looking to collaborate on [PYHON]🤝;
+- 🌱 I’m currently learning java, dsa; 
+- 👯 I’m looking to collaborate on [Projects]🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: 8052ritesh@gmail.com;
