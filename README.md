@@ -1,28 +1,102 @@
-# 💫About Me :
-👨🏽‍💻 I’m currently working on [PYTHON];
-- 🌱 I’m currently learning java, dsa; 
-- 👯 I’m looking to collaborate on [Projects]🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: 8052ritesh@gmail.com;
-- 📝[Resume];
-
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021587765199 ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_am__aman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-pal-b343361a7) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/_am__aman) 
-
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-# 📊GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riteshpal1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=riteshpal1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpal1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<h1 align="center">Hi 👋, I'm Ritesh Pal</h1>
+<h3 align="center">Backend Developer | Python | Django | REST APIs</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=riteshpal1&icon=0&color=0)](https://visitcount.itsvg.in)
- 
+
+## 🚀 About Me
+
+- 👨🏽‍💻 Backend Developer specializing in **Python, Django & REST APIs**
+- 🎓 MCA student with hands-on experience in **scalable web applications**
+- 🧠 Strong in **API development, backend logic & problem solving**
+- 🌱 Currently learning **Java & Data Structures (DSA)**
+- 🤝 Open to collaborate on **backend / full-stack projects**
+- 💬 Ask me about **Django, APIs, Python**
+- 📫 Reach me: **8052ritesh@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ritesh-pal1" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/riteshpal1" target="blank">
+<img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/_am__aman" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,mysql,postgres,git" />
+</p>
+
+- **Languages:** Python, JavaScript, SQL  
+- **Frameworks:** Django, Django REST Framework, React.js  
+- **Databases:** MySQL, PostgreSQL  
+- **Libraries:** Pandas, NumPy, OpenCV, MediaPipe  
+- **Tools:** Git, GitHub, Vercel, Render  
+
+---
+
+## 🚀 Projects
+
+### 🔹 HOS Compliance Planner
+- Built a full-stack application for **HOS-compliant trip planning**
+- Integrated **OpenStreetMap APIs** for route visualization
+- Implemented backend logic using **Django & DRF**
+
+**Tech:** Django, DRF, React, OpenStreetMap  
+
+---
+
+### 🔹 GystureSync (Gesture Control System)
+- Developed a **gesture-based control system** using computer vision
+- Implemented **real-time hand tracking** using OpenCV & MediaPipe
+- Automated system controls using **PyAutoGUI**
+
+**Tech:** Python, OpenCV, MediaPipe  
+
+---
+
+## 💼 Experience
+
+### Software Developer Intern — Bench Work Technologies  
+📅 Feb 2024 – Jul 2024  
+
+- Developed backend features using **Python, Django & REST APIs**
+- Integrated **third-party APIs** to enhance functionality
+- Collaborated using GitHub and improved performance through **testing & debugging**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=riteshpal1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshpal1&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpal1&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ✍️ Developer Mindset
+
+> “I build backend systems that are scalable, efficient, and solve real-world problems.”
+
+---
+
+## 🔥 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=riteshpal1&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
